@@ -1,6 +1,7 @@
 # Project Title
 
 An ERC20 token and deployed on the Avalanche c-chain testnet network for Degen Gaming. 
+*Verified Contract on [SnowTrace](https://testnet.snowtrace.io/address/0xc71C23BFE22A7954F251122BaA591fe9E253d6F7#code)*
 
 ## Description
 
