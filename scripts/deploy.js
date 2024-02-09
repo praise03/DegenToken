@@ -9,6 +9,7 @@ async function main() {
   await degen.deployed();
 
   // Display the contract address
+  //0xc71C23BFE22A7954F251122BaA591fe9E253d6F7 (C-chain)
   console.log(`Degen token deployed to ${degen.address}`);
 }
 
